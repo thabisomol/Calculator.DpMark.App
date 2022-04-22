@@ -1,0 +1,12 @@
+C:\Users\thabiso.molise\source\repos\Calculator.DpMark\Calculator.DpMark.Logic\bin\Debug\net6.0\Calculator.DpMark.Logic.deps.json
+C:\Users\thabiso.molise\source\repos\Calculator.DpMark\Calculator.DpMark.Logic\bin\Debug\net6.0\Calculator.DpMark.Logic.dll
+C:\Users\thabiso.molise\source\repos\Calculator.DpMark\Calculator.DpMark.Logic\bin\Debug\net6.0\ref\Calculator.DpMark.Logic.dll
+C:\Users\thabiso.molise\source\repos\Calculator.DpMark\Calculator.DpMark.Logic\bin\Debug\net6.0\Calculator.DpMark.Logic.pdb
+C:\Users\thabiso.molise\source\repos\Calculator.DpMark\Calculator.DpMark.Logic\obj\Debug\net6.0\Calculator.DpMark.Logic.csproj.AssemblyReference.cache
+C:\Users\thabiso.molise\source\repos\Calculator.DpMark\Calculator.DpMark.Logic\obj\Debug\net6.0\Calculator.DpMark.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thabiso.molise\source\repos\Calculator.DpMark\Calculator.DpMark.Logic\obj\Debug\net6.0\Calculator.DpMark.Logic.AssemblyInfoInputs.cache
+C:\Users\thabiso.molise\source\repos\Calculator.DpMark\Calculator.DpMark.Logic\obj\Debug\net6.0\Calculator.DpMark.Logic.AssemblyInfo.cs
+C:\Users\thabiso.molise\source\repos\Calculator.DpMark\Calculator.DpMark.Logic\obj\Debug\net6.0\Calculator.DpMark.Logic.csproj.CoreCompileInputs.cache
+C:\Users\thabiso.molise\source\repos\Calculator.DpMark\Calculator.DpMark.Logic\obj\Debug\net6.0\Calculator.DpMark.Logic.dll
+C:\Users\thabiso.molise\source\repos\Calculator.DpMark\Calculator.DpMark.Logic\obj\Debug\net6.0\ref\Calculator.DpMark.Logic.dll
+C:\Users\thabiso.molise\source\repos\Calculator.DpMark\Calculator.DpMark.Logic\obj\Debug\net6.0\Calculator.DpMark.Logic.pdb

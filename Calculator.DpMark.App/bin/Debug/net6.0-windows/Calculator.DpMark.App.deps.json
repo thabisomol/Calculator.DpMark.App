@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculator.DpMark.App/1.0.0": {
+        "dependencies": {
+          "Calculator.DpMark.Logic": "1.0.0"
+        },
+        "runtime": {
+          "Calculator.DpMark.App.dll": {}
+        }
+      },
+      "Calculator.DpMark.Logic/1.0.0": {
+        "runtime": {
+          "Calculator.DpMark.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator.DpMark.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculator.DpMark.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
